@@ -36,3 +36,10 @@ venv.bak/
 
 ### Random sutff - dockerfile? ###
 .cache/
+
+### Data
+*.csv
+*.xls
+*.xlsx
+*.geojson
+*.jsonl
