@@ -1,0 +1,8 @@
+pandas
+datasets
+sentence-transformers==2.7.0
+tqdm
+torch
+#torchvision
+#torchaudio
+openpyxl
