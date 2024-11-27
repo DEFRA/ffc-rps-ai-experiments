@@ -43,3 +43,4 @@ venv.bak/
 *.xlsx
 *.geojson
 *.jsonl
+Compatibility_checker/CrossEncoder_prod/compat_matrix_model/*

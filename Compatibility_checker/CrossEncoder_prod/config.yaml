@@ -1,4 +1,4 @@
 data_processing:
-  input_compat_data_folder: '../data'
+  input_compat_data_folder: '/Users/adamfletcher/Documents/GitHub/ffc-rps-ai-experiments/Compatibility_checker/data'
   input_compat_excel_filename: 'Option compat matrix 24 updated 29 May.xlsx'
-  sfi_actions_folder: '../data/actions/'
+  sfi_actions_folder: '/Users/adamfletcher/Documents/GitHub/ffc-rps-ai-experiments/Compatibility_checker/data/actions/'
